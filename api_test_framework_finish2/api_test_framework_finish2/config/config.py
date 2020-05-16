@@ -2,7 +2,7 @@ import logging
 import os
 import time
 from optparse import OptionParser
-
+# 共用的
 
 today = time.strftime('%Y%m%d', time.localtime())
 now = time.strftime('%Y%m%d_%H%M%S', time.localtime())
